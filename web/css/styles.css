@@ -1,0 +1,52 @@
+*{
+   box-sizing: border-box;
+   color: #f86773;
+   font-size: 1.25rem;
+}
+
+body{
+   background-color: #FFF;
+   color: #f86773;
+/*   #F4B8B7*/
+}
+
+.nav{
+
+}
+
+.nav-list{
+
+}
+
+.button{
+   background-color: navy;
+   border: 1px solid black;
+   border-radius: 12px;
+   width: 5rem;
+}
+
+.button:hover{
+   cursor: pointer;
+   background-color: rgba(43, 77, 200, 0.842);
+}
+
+.button:active{
+   color: #f42132cd;
+}
+
+h1{
+   font-size: 2rem;
+   color: #f86773;
+}
+
+h2{
+   font-size: 2.25rem;
+}
+
+h3{
+   font-size: 2.5rem;
+}
+
+input{
+    border-radius: 10px;
+}
